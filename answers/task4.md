@@ -19,3 +19,6 @@ build.sh 只是简单顺序执行所有编译命令，每次都会重新编译�
 ## 3. 为什么不希望每次都重新编译所有 `.c` 文件？
 因为编译非常耗时，尤其在大型项目中。只重新编译修改过的文件和受影响的文件可
 以节省大量时间，加快开发迭代速度
+
+
+<img width="676" height="241" alt="image" src="https://github.com/user-attachments/assets/51317922-56a8-4211-b2fc-da458ddb4c6f" />
